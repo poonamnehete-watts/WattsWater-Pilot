@@ -1,0 +1,5 @@
+login to portal.azure.com
+
+go vertual machine -> select wattsblidev -> connect -> download RDP file ->
+then login to secure agent using 
+
